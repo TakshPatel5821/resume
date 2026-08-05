@@ -56,5 +56,7 @@ Built a responsive React app integrating a live weather REST API, with error han
 - Gujarat Technological University (GTU) - B.E., Computer Engineering | August 2020 - June 2024
 
 ## Certifications
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Introduction to Data Engineering — Coursera (IBM) | August 2026
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
